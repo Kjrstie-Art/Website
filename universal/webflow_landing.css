@@ -32,7 +32,6 @@ h1 {
   text-transform: uppercase;
 }
 
-
 .c-section {
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
@@ -63,7 +62,7 @@ h1 {
   background-attachment: scroll;
   font-family: Ubuntu, Helvetica, sans-serif;
   font-size: 15vmax;
-  line-height: 1.9;
+  line-height: 3.9;
   font-weight: 700;
   text-align: center;
   text-transform: uppercase;
