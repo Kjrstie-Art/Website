@@ -14,6 +14,25 @@ h1 {
   line-height: 1;
 }
 
+.button {
+  position: static;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: auto;
+  display: block;
+  width: auto;
+  max-width: 40%;
+  margin-right: auto;
+  margin-left: auto;
+  clear: none;
+  font-family: Ubuntu, Helvetica, sans-serif;
+  font-weight: 500;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+
 .c-section {
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
@@ -43,10 +62,12 @@ h1 {
   background-repeat: repeat;
   background-attachment: scroll;
   font-family: Ubuntu, Helvetica, sans-serif;
-  font-size: 20vmax;
+  font-size: 15vmax;
   line-height: 1.9;
   font-weight: 700;
   text-align: center;
+  text-transform: uppercase;
+  white-space: nowrap;
 }
 
 .c-background {
